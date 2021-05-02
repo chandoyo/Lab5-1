@@ -9,4 +9,4 @@ Link: https://chandoyo.github.io/Lab5-1/
 
 ## Part 2:
 
-LINK TO YOUR PART 2 REPOSITORY
+Link: https://github.com/chandoyo/github-actions-for-ci/issues/7
